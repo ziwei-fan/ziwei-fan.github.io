@@ -9,4 +9,3 @@ redirect_from:
 ---
 
 This is Ziwei Fan's home on the web!
-Lorem ipsum.
