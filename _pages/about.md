@@ -19,7 +19,7 @@ I am a Ph.D. candidate in the BDSC Lab under Prof. Philip S. Yu's supervision.
 	* BigData'22, WWW'22, CIKM'21, and SIGIR'21.
 * Domain Adaptation (Federated Learning and Pre-training)
 * Recommender Systems (Sequential, Graph, and Knowledge-based Recommendations)
-	* CIKM'22, SIGIR'19.
+	* CIKM'21, SIGIR'19.
 
 
 # News
