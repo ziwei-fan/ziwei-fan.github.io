@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D student in Computer Science, University of Illinois Chicago, 2023 (expected)
-* M.S. in Computer Science, Purdue University Indianapolis, 2018
-* B.S. in Network Engineering, South China Agricultural University, 2016
+* Ph.D student in Computer Science, University of Illinois Chicago, May 2023 (expected)
+* M.S. in Computer Science, Purdue University Indianapolis, May 2018
+* B.S. in Network Engineering, South China Agricultural University, May 2016
 
 Work experience
 ======
