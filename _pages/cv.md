@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Ziwei Fan (范子炜)"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
