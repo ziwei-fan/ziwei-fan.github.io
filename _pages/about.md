@@ -12,6 +12,7 @@ redirect_from:
 
 # About Me
 I am a Ph.D. candidate in the BDSC Lab under Prof. Philip S. Yu's supervision. 
+<span style="color:red">Actively looking for full-time positions of Applied/Research Scientist, Machine Learning Engineer in recommender systems.</span>
 
 # Research Interests
 * Data-Centric AI (Data Generating and Learning)
@@ -20,7 +21,6 @@ I am a Ph.D. candidate in the BDSC Lab under Prof. Philip S. Yu's supervision.
 * Recommender Systems (Sequential, Graph, and Knowledge-based Recommendations)
 	* CIKM'22, SIGIR'19.
 
-<span style="color:red">I am actively looking for full-time positions for Applied/Research Scientist, Machine Learning Engineer in recommender systems.</span>
 
 # News
 * News
