@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Ziwei Fan (范子炜)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,27 +18,27 @@ Education
 Work experience
 ======
 * Summer 2022: Research Intern
-  * Salesforce Research
-  * Duties included: Recommender Systems
+  * <b>Salesforce Research</b>
+  * Work: Recommender Systems
   * Supervisor: Zhiwei Liu, Yongjun Chen
 
 * Spring 2022: Applied Scientist Intern
-  * AWS AI Personalize
-  * Duties included: Recommender Systems
+  * <b>AWS AI Personalize</b>
+  * Work: Recommender Systems
   * Supervisor: Nghia Hoang, Hao Ding, Anoop Deoras
 
 * Summer 2021: Research Intern
-  * Spotify Research
-  * Duties included: Recommender Systems
+  * <b>Spotify Research</b>
+  * Work: Recommender Systems
   * Supervisor: Alice Wang, Zahra Nazari
 
 * Summer 2020: Data Scientist Intern
-  * Stitch Fix Inc
-  * Duties included: Recommender Systems
+  * <b>Stitch Fix Inc</b>
+  * Work: Recommender Systems
   * Supervisor: Ian Horn, Karim Wahba
-  
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+
+
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://ziwei-fan.github.io/files/resume.pdf)
+
+<!-- <embed src="http://ziwei-fan.github.io/files/resume.pdf" width="650" height="1800" type='application/pdf'> -->
+
