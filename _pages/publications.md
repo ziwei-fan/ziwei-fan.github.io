@@ -55,5 +55,5 @@ author_profile: true
 
 
 # Master Thesis
-* <b>Ensemble methods for top-N recommendation</b> <b>Ziwei Fan</b><b>(IUPUI)</b></i>.
+* <b>Ensemble methods for top-N recommendation</b> <br> <b>Ziwei Fan</b><i><b>(IUPUI)</b></i>.
 [[PDF]](https://scholarworks.iupui.edu/bitstream/handle/1805/15937/A_thesis.pdf?sequence=1)
