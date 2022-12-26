@@ -1,8 +1,8 @@
 ---
 layout: archive
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Ziwei Fan(范子炜)"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,9 +11,7 @@ redirect_from:
 
 
 # About Me
-* I am a Ph.D. candidate in the Department of Computer Science at the University of Illinois at Chicago (UIC). I am working in the Big Data and Social Computing Lab (BDSC) under the supervision of Prof. Philip S. Yu.
-
-* My research interests lie in data mining and recommender systems. I am mostly focused on developing deep learning models for recommender systems.
+I am a Ph.D. candidate in the BDSC Lab under Prof. Philip S. Yu's supervision. My research interests are data mining, data-centric AI (data generating and learning), and domain adaptation (federated learning, pre-training, and fast adaptation), with most applications to recommender systems (sequential, graph, and knowledge graph recommendations).
 
 # News
 * News
