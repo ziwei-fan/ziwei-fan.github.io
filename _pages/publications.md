@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Selected Publications [(Full List in Google Scholar Profile)](https://scholar.google.com/citations?user=3O91rIwAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
