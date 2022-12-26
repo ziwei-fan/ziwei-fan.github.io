@@ -15,7 +15,8 @@ author_profile: true
 3. <b>Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer</b> <br> <b>Ziwei Fan\*</b>, Zhiwei Liu\*, Jiawei Zhang, Yun Xiong, Lei Zheng, Philip S. Yu. <i>Proceedings of the 30th ACM International Conference on Information & Knowledge Management <b>(CIKM 2021)</b></i>.
 [[PDF]](https://arxiv.org/pdf/2108.06625.pdf)[[Code]](https://github.com/DyGRec/TGSRec)
 
-4. <b>Modeling Sequences as Distributions with Uncertainty for Sequential Recommendation</b><span style="color:red">Best Short Paper Nomination</span> <br> <b>Ziwei Fan</b>, Zhiwei Liu, Lei Zheng, Shen Wang, Philip S. Yu. <i>Proceedings of the 30th ACM International Conference on Information & Knowledge Management <b>(CIKM 2021)</b></i>.
+4. <b>Modeling Sequences as Distributions with Uncertainty for Sequential Recommendation</b><br> <b>Ziwei Fan</b>, Zhiwei Liu, Lei Zheng, Shen Wang, Philip S. Yu. <i>Proceedings of the 30th ACM International Conference on Information & Knowledge Management <b>(CIKM 2021)</b></i>.
+<span style="color:red">Best Short Paper Nomination</span> 
 [[PDF]](https://arxiv.org/pdf/2106.06165.pdf)[[Code]](https://github.com/DyGRec/DT4SR)
 
 5. <b>Augmenting Sequential Recommendation with Pseudo-Prior Items via Reversely Pre-training Transformer</b> <br> <b>Ziwei Fan\*</b>, Zhiwei Liu\*, Yu Wang, Philip S. Yu. <i>Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval <b>(SIGIR 2021)</b></i>.
