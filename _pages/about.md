@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-# About Me
+<!-- # About Me -->
 I am a Ph.D. candidate in the BDSC Lab under Prof. Philip S. Yu's supervision. 
 <span style="color:red">Actively looking for full-time positions of Applied/Research Scientist, Machine Learning Engineer in recommender systems.</span>
 
