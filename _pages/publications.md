@@ -8,7 +8,7 @@ author_profile: true
 [[PDF]](https://arxiv.org/pdf/2210.13572.pdf)[[Code]](https://github.com/zfan20/MT4SR)
 
 
-2. <b>Sequential Recommendation via Stochastic Self-Attention</b> <br> <b>Ziwei Fan</b>, Zhiwei Liu, Alice Wang, Zahra Nazari, Lei Zheng, Hao Peng, Hao Peng, Philip S. Yu. <i>Proceedings of the WebConf 2022 <b>(WWW 2022)</b></i>.
+2. <b>Sequential Recommendation via Stochastic Self-Attention</b> <br> <b>Ziwei Fan</b>, Zhiwei Liu, Alice Wang, Zahra Nazari, Lei Zheng, Hao Peng, Philip S. Yu. <i>Proceedings of the WebConf 2022 <b>(WWW 2022)</b></i>.
 [[PDF]](https://arxiv.org/pdf/2201.06035.pdf)[[Code]](https://github.com/zfan20/STOSA)
 
 
