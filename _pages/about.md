@@ -23,5 +23,8 @@ I am a Ph.D. candidate in the BDSC Lab under Prof. Philip S. Yu's supervision.
 
 
 # News
-* News
+* Nov 2022: Officially Ph.D. Candidate after my preliminary examination!
+* Nov 2022: One paper of Sequential Recommendation with Multi-relational Self-Attention is accepted by BigData'22.
+* May 2022: Joined Salesforce Research as Research Intern.
+* Feb 2022: Joined AWS AI Personalize as Applied Scientist Itern.
 
