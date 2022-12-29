@@ -26,11 +26,6 @@ author_profile: true
 6. <b>Gated Spectral Units: Modeling Co-evolving Patterns for Sequential Recommendation</b> <br> Lei Zheng, <b>Ziwei Fan</b>, Chun-Ta Lu, Jiawei Zhang, Philip S Yu. <i>Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval <b>(SIGIR 2019)</b></i>.
 [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3331184.3331329)
 
-7. <b>Empirical evaluation of contextual combinations in recommendation system</b> <br> <b>Ziwei Fan</b>, Yingzhi Peng, Peijie Huang, Piyuan Lin, Yikui Chen, Zhenfa Chen, Kaiyin Li. <i>2016 International Conference on Machine Learning and Cybernetics <b>(ICMLC 2016)</b></i>.
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/7872977)
-
-8. <b>A feature generation framework for google trace analysis</b> <br> <b>Ziwei Fan</b>, Peijie Huang, Peisen Huang, Linxiao Chen, Yuqing Xiao, Mingxiang Huo, Yu Liang. <i>2015 International Conference on Machine Learning and Cybernetics <b>(ICMLC 2015)</b></i>.
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/7340927/)
 
 # Co-author Publications
 1. <b>Federated social recommendation with graph neural network</b> <br> Zhiwei Liu, Liangwei Yang, <b>Ziwei Fan</b>, Hao Peng, Philip S Yu. <i>ACM Transactions on Intelligent Systems and Technology <b>(TIST)</b></i>.
@@ -53,6 +48,13 @@ author_profile: true
 
 7. <b>Modeling the task of Google MapReduce workload</b> <br> Xiaoyang Lin, Piyuan Lin, Peijie Huang, Linxiao Chen, <b>Ziwei Fan</b>, Peisen Huang.  <i>2015 15th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing <b>(CCGrid 2015)</b></i>.
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/7152628)
+
+
+8. <b>Empirical evaluation of contextual combinations in recommendation system</b> <br> <b>Ziwei Fan</b>, Yingzhi Peng, Peijie Huang, Piyuan Lin, Yikui Chen, Zhenfa Chen, Kaiyin Li. <i>2016 International Conference on Machine Learning and Cybernetics <b>(ICMLC 2016)</b></i>.
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/7872977)
+
+9. <b>A feature generation framework for google trace analysis</b> <br> <b>Ziwei Fan</b>, Peijie Huang, Peisen Huang, Linxiao Chen, Yuqing Xiao, Mingxiang Huo, Yu Liang. <i>2015 International Conference on Machine Learning and Cybernetics <b>(ICMLC 2015)</b></i>.
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/7340927/)
 
 
 # Master Thesis
