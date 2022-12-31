@@ -15,8 +15,9 @@ I am a Ph.D. candidate in the BDSC Lab under Prof. Philip S. Yu's supervision.
 <span style="color:red">Actively looking for full-time positions of Applied/Research Scientist, Machine Learning Engineer in recommender systems.</span>
 
 # Research Interests
-* Data-Centric AI (Data Generating and Learning)
-	* BigData'22, WWW'22, CIKM'21, and SIGIR'21.
+* Data-Centric AI (Learn New Data for Data Issues)
+	* Data Sparsity Issue in Recommender Systems
+		* BigData'22 (MT4SR: Multi-relation Item-Item Similarities), WWW'22 (STOSA: Collaborative Transitivity), CIKM'21 (DT4SR: Uncertain Sequential Behaviors), and SIGIR'21 (ASReP: Reversely Sequence Enhancement).
 * Domain Adaptation (Federated Learning and Pre-training)
 * Recommender Systems (Sequential, Graph, and Knowledge-based Recommendations)
 	* CIKM'21, SIGIR'19.
