@@ -27,7 +27,7 @@ author_profile: true
 [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3331184.3331329)
 
 
-# Co-author Publications
+# Other Publications
 1. <b>Federated social recommendation with graph neural network</b> <br> Zhiwei Liu, Liangwei Yang, <b>Ziwei Fan</b>, Hao Peng, Philip S Yu. <i>ACM Transactions on Intelligent Systems and Technology <b>(TIST)</b></i>.
 [[PDF]](https://arxiv.org/pdf/2111.10778.pdf)
 
