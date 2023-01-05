@@ -4,7 +4,7 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-* <b>Episodes Discovery Recommendation with Multi-Source Augmentations</b> <br> <b>Ziwei Fan</b>, Alice Wang, Zahra Nazari. (Arxiv 2023, done during the internship in Spotify Research)</i>.
+* <b>Episodes Discovery Recommendation with Multi-Source Augmentations</b> <br> <b>Ziwei Fan</b>, Alice Wang, Zahra Nazari. <i>(Arxiv 2023, done during the internship in Spotify Research)</i>.
 [[PDF]](https://arxiv.org/abs/2301.01737)
 
 * <b>Sequential Recommendation with Auxiliary Item Relationships via Multi-Relational Transformer</b> <br> <b>Ziwei Fan</b>, Zhiwei Liu, Chen Wang, Peijie Huang, Hao Peng, Philip S. Yu. <i>2022 IEEE International Conference on Big Data <b>(BigData 2022)</b></i>.
