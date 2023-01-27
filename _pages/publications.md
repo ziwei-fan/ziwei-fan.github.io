@@ -49,18 +49,19 @@ author_profile: true
 * <b>Basket recommendation with multi-intent translation graph neural network</b> <br> Zhiwei Liu, Xiaohan Li, <b>Ziwei Fan</b>, Stephen Guo, Kannan Achan, Philip S Yu.  <i>2020 IEEE International Conference on Big Data <b>(BigData 2020)</b></i>.
 [[PDF]](https://arxiv.org/pdf/2010.11419.pdf)
 
-* <b>Discriminative model for google host load prediction with rich feature set</b> <br> Peijie Huang, Dashu Ye, <b>Ziwei Fan</b>, Peisen Huang, Xuezhen Li.  <i>2015 15th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing <b>(CCGrid 2015)</b></i>.
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/7152619)
-
-* <b>Modeling the task of Google MapReduce workload</b> <br> Xiaoyang Lin, Piyuan Lin, Peijie Huang, Linxiao Chen, <b>Ziwei Fan</b>, Peisen Huang.  <i>2015 15th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing <b>(CCGrid 2015)</b></i>.
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/7152628)
-
 
 * <b>Empirical evaluation of contextual combinations in recommendation system</b> <br> <b>Ziwei Fan</b>, Yingzhi Peng, Peijie Huang, Piyuan Lin, Yikui Chen, Zhenfa Chen, Kaiyin Li. <i>2016 International Conference on Machine Learning and Cybernetics <b>(ICMLC 2016)</b></i>.
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/7872977)
 
 * <b>A feature generation framework for google trace analysis</b> <br> <b>Ziwei Fan</b>, Peijie Huang, Peisen Huang, Linxiao Chen, Yuqing Xiao, Mingxiang Huo, Yu Liang. <i>2015 International Conference on Machine Learning and Cybernetics <b>(ICMLC 2015)</b></i>.
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/7340927/)
+
+* <b>Discriminative model for google host load prediction with rich feature set</b> <br> Peijie Huang, Dashu Ye, <b>Ziwei Fan</b>, Peisen Huang, Xuezhen Li.  <i>2015 15th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing <b>(CCGrid 2015)</b></i>.
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/7152619)
+
+* <b>Modeling the task of Google MapReduce workload</b> <br> Xiaoyang Lin, Piyuan Lin, Peijie Huang, Linxiao Chen, <b>Ziwei Fan</b>, Peisen Huang.  <i>2015 15th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing <b>(CCGrid 2015)</b></i>.
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/7152628)
+
 
 
 # Master Thesis
