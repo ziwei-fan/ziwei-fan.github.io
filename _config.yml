@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ziwei Fan Homepage"
 title_separator          : "-"
-name                     : &name "Ziwei Fan(范子炜)"
+name                     : &name "Ziwei Fan"
 description              : &description "Ph.D. Candidate from University of Illinois Chicago"
 url                      : https://ziwei-fan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ziwei Fan"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "Ph.D. Candidate from University of Illinois Chicago"
   location         : "Chicago, USA"
   employer         :
