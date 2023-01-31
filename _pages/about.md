@@ -16,11 +16,11 @@ I am a Ph.D. candidate in the BDSC Lab of University of Illinois at Chicago, und
 
 # Research Interests
 * Data-Centric AI (Learn (Distill) New Data for Addressing Data Issues)
-	* Data Sparsity Issue in Sequential Recommendation
-		* BigData'22 (MT4SR: Multi-relation Item-Item Similarities), WWW'22 (STOSA: Collaborative Transitivity), CIKM'21 (DT4SR: Uncertain Sequential Behaviors), and SIGIR'21 (ASReP: Reversely Sequence Enhancement).
+<!-- 	* Data Sparsity Issue in Sequential Recommendation
+		* BigData'22 (MT4SR: Multi-relation Item-Item Similarities), WWW'22 (STOSA: Collaborative Transitivity), CIKM'21 (DT4SR: Uncertain Sequential Behaviors), and SIGIR'21 (ASReP: Reversely Sequence Enhancement). -->
 * Domain Adaptation (Federated Learning, Knowledge Transfer, and Continual Learning)
 * Recommender Systems (Sequential, Graph, and Knowledge-based Recommendations)
-	* WWW'23 (MStein: Robustness against Sequential Augmentations), CIKM'21, SIGIR'19.
+	<!-- * WWW'23 (MStein: Robustness against Sequential Augmentations), CIKM'21, SIGIR'19. -->
 
 
 # News
