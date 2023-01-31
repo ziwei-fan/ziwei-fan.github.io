@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Ziwei Fan(范子炜)"
+title: "Ziwei Fan"
 excerpt: ""
 author_profile: true
 redirect_from: 
