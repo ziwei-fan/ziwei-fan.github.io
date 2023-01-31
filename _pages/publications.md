@@ -29,10 +29,6 @@ author_profile: true
 [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3404835.3463036)[[Code]](https://github.com/DyGRec/ASReP)
 
 
-* <b>Gated Spectral Units: Modeling Co-evolving Patterns for Sequential Recommendation</b> <br> Lei Zheng, <b>Ziwei Fan</b>, Chun-Ta Lu, Jiawei Zhang, Philip S Yu. <i>Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval <b>(SIGIR 2019)</b></i>.
-[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3331184.3331329)
-
-
 # Other Publications
 * <b>Federated social recommendation with graph neural network</b> <br> Zhiwei Liu, Liangwei Yang, <b>Ziwei Fan</b>, Hao Peng, Philip S Yu. <i>ACM Transactions on Intelligent Systems and Technology <b>(TIST)</b></i>.
 [[PDF]](https://arxiv.org/pdf/2111.10778.pdf)
@@ -48,6 +44,10 @@ author_profile: true
 
 * <b>Basket recommendation with multi-intent translation graph neural network</b> <br> Zhiwei Liu, Xiaohan Li, <b>Ziwei Fan</b>, Stephen Guo, Kannan Achan, Philip S Yu.  <i>2020 IEEE International Conference on Big Data <b>(BigData 2020)</b></i>.
 [[PDF]](https://arxiv.org/pdf/2010.11419.pdf)
+
+
+* <b>Gated Spectral Units: Modeling Co-evolving Patterns for Sequential Recommendation</b> <br> Lei Zheng, <b>Ziwei Fan</b>, Chun-Ta Lu, Jiawei Zhang, Philip S Yu. <i>Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval <b>(SIGIR 2019)</b></i>.
+[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3331184.3331329)
 
 
 * <b>Empirical evaluation of contextual combinations in recommendation system</b> <br> <b>Ziwei Fan</b>, Yingzhi Peng, Peijie Huang, Piyuan Lin, Yikui Chen, Zhenfa Chen, Kaiyin Li. <i>2016 International Conference on Machine Learning and Cybernetics <b>(ICMLC 2016)</b></i>.
