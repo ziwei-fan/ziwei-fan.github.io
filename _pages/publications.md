@@ -4,8 +4,9 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-* <b>Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation</b> <br> <b>Ziwei Fan</b>, Zhiwei Liu, Hao Peng, Philip S. Yu. <i>Proceedings of the WebConf 2023 <b>(WWW 2023)</b></i>.
-[[PDF]](https://arxiv.org/pdf/2301.12197.pdf)[[Code]](https://github.com/zfan20/MStein)
+* <b>Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation</b> <br> <b>Ziwei Fan</b>, Zhiwei Liu, Hao Peng, Philip S. Yu. <i>Proceedings of the WebConf 2023 </i>.
+
+[[<b>(WWW 2023)</b>]](https://arxiv.org/pdf/2301.12197.pdf)[[Code]](https://github.com/zfan20/MStein)
 
 * <b>Episodes Discovery Recommendation with Multi-Source Augmentations</b> <br> <b>Ziwei Fan</b>, Alice Wang, Zahra Nazari. <i>(Arxiv 2023, done during the internship in Spotify Research)</i>.
 [[PDF]](https://arxiv.org/abs/2301.01737)
