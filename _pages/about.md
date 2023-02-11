@@ -12,7 +12,7 @@ redirect_from:
 
 <!-- # About Me -->
 I am a Ph.D. candidate in the BDSC Lab of University of Illinois at Chicago, under Prof. Philip S. Yu's supervision. 
-<span style="color:red">Actively looking for full-time positions of Applied/Research Scientist, Machine Learning Engineer in recommender systems.</span>
+<!-- <span style="color:red">Actively looking for full-time positions of Applied/Research Scientist, Machine Learning Engineer in recommender systems.</span> -->
 
 # Research Interests
 * Data-Centric AI (Learn (Distill) New Data for Addressing Data Issues)
