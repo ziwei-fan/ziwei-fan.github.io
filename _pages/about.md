@@ -24,6 +24,7 @@ I am a Ph.D. candidate in the BDSC Lab of University of Illinois at Chicago, und
 
 
 # News
+* April 2023: Paper "Graph Collaborative Signals Denoising and Augmentation for Recommendation" is accepted by WWW'23.
 * Jan 2023: Paper "Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation" is accepted by WWW'23.
 * Nov 2022: Officially Ph.D. Candidate after my preliminary examination!
 * Nov 2022: Paper "Sequential Recommendation with Auxiliary Item Relationships via Multi-Relational Transformer" is accepted by BigData'22.
