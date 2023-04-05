@@ -4,6 +4,9 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+* [[SIGIR 2023]]() <b>Graph Collaborative Signals Denoising and Augmentation for Recommendation</b> <br> <b>Ziwei Fan</b>, Ke Xu, Zhang Dong, Hao Peng, Jiawei Zhang, Philip S. Yu.
+
 * [[WWW 2023]](https://arxiv.org/pdf/2301.12197.pdf) <b>Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation</b> <br> <b>Ziwei Fan</b>, Zhiwei Liu, Hao Peng, Philip S. Yu. [[Code]](https://github.com/zfan20/MStein)
 
 * [[Arxiv 2023]](https://arxiv.org/abs/2301.01737) <b>Episodes Discovery Recommendation with Multi-Source Augmentations</b> <br> <b>Ziwei Fan</b>, Alice Wang, Zahra Nazari. <i>(done during the internship in Spotify Research)</i>. 
