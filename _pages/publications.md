@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* [[SIGIR 2023]]() <b>Graph Collaborative Signals Denoising and Augmentation for Recommendation</b> <br> <b>Ziwei Fan</b>, Ke Xu, Zhang Dong, Hao Peng, Jiawei Zhang, Philip S. Yu.
+* [[SIGIR 2023]](https://arxiv.org/pdf/2304.03344.pdf) <b>Graph Collaborative Signals Denoising and Augmentation for Recommendation</b> <br> <b>Ziwei Fan</b>, Ke Xu, Zhang Dong, Hao Peng, Jiawei Zhang, Philip S. Yu.[[Code]](https://github.com/zfan20/GraphDA)
 
 * [[WWW 2023]](https://arxiv.org/pdf/2301.12197.pdf) <b>Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation</b> <br> <b>Ziwei Fan</b>, Zhiwei Liu, Hao Peng, Philip S. Yu. [[Code]](https://github.com/zfan20/MStein)
 
