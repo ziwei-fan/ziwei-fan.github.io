@@ -24,6 +24,7 @@ I am a Ph.D. candidate in the BDSC Lab of University of Illinois at Chicago, und
 
 
 # News
+* May 2023: Paper "Personalized Federated Domain Adaptation for Item-to-Item Recommendation" is accepted by UAI'23.
 * April 2023: Paper "Graph Collaborative Signals Denoising and Augmentation for Recommendation" is accepted by SIGIR'23.
 * Jan 2023: Paper "Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation" is accepted by WWW'23.
 * Nov 2022: Officially Ph.D. Candidate after my preliminary examination!
