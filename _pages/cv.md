@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D student in Computer Science, University of Illinois Chicago, May 2023 (expected)
+* Ph.D. in Computer Science, University of Illinois Chicago, May 2023
 * M.S. in Computer Science, Purdue University Indianapolis, May 2018
 * B.S. in Network Engineering, South China Agricultural University, May 2016
 
@@ -24,12 +24,12 @@ Work experience
 
 * Spring 2022: Applied Scientist Intern
   * <b>AWS AI Personalize</b>
-  * Work: Personalized Federated Graph for Item-to-Item Recommendation (In Submission)
+  * Work: Personalized Federated Graph for Item-to-Item Recommendation (UAI'23)
   * Supervisor: Nghia Hoang, Hao Ding, Anoop Deoras
 
 * Summer 2021: Research Intern
   * <b>Spotify Research</b>
-  * Work: Episodes Discovery Recommendation via Multi-sources Augmentations
+  * Work: Episodes Discovery Recommendation via Multi-sources Augmentations (Arxiv'23)
   * Supervisor: Alice Wang, Zahra Nazari
 
 * Summer 2020: Data Scientist Intern
