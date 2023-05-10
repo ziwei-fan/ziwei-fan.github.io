@@ -24,7 +24,7 @@ I earned my CS Ph.D. in the BDSC Lab of University of Illinois at Chicago, under
 
 
 # News
-* May 8th, 2023: From now on, I am a Ph.D.!
+* May 8th, 2023: From now on, I am Dr. Fan!
 * May 8th, 2023: Paper "Personalized Federated Domain Adaptation for Item-to-Item Recommendation" is accepted by UAI'23.
 * April 2023: Paper "Graph Collaborative Signals Denoising and Augmentation for Recommendation" is accepted by SIGIR'23.
 * Jan 2023: Paper "Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation" is accepted by WWW'23.
