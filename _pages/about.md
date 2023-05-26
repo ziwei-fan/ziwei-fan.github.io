@@ -11,6 +11,7 @@ redirect_from:
 
 
 <!-- # About Me -->
+I am currently an Applied Scientist in AWS AI Labs, working on personalization models research and advancement.
 I earned my CS Ph.D. in the BDSC Lab of University of Illinois at Chicago, under Prof. Philip S. Yu's supervision. 
 <!-- <span style="color:red">Actively looking for full-time positions of Applied/Research Scientist, Machine Learning Engineer in recommender systems.</span> -->
 
@@ -24,6 +25,7 @@ I earned my CS Ph.D. in the BDSC Lab of University of Illinois at Chicago, under
 
 
 # News
+* May 22nd, 2023: Joined AWS AI Personalize as a full-time Applied Scientist.
 * May 8th, 2023: From now on, I am Dr. Fan!
 * May 8th, 2023: Paper "Personalized Federated Domain Adaptation for Item-to-Item Recommendation" is accepted by UAI'23.
 * April 2023: Paper "Graph Collaborative Signals Denoising and Augmentation for Recommendation" is accepted by SIGIR'23.
