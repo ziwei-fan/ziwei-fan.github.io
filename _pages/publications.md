@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* [[UAI 2023]](TBD) <b>Personalized Federated Domain Adaptation for Item-to-Item Recommendation</b> <br> <b>Ziwei Fan</b>, Nghia Hoang, Hao Ding, Anoop Deoras.
+* [[UAI 2023]](https://arxiv.org/abs/2306.03191) <b>Personalized Federated Domain Adaptation for Item-to-Item Recommendation</b> <br> <b>Ziwei Fan</b>, Nghia Hoang, Hao Ding, Anoop Deoras.
 
 * [[SIGIR 2023]](https://arxiv.org/pdf/2304.03344.pdf) <b>Graph Collaborative Signals Denoising and Augmentation for Recommendation</b> <br> <b>Ziwei Fan</b>, Ke Xu, Zhang Dong, Hao Peng, Jiawei Zhang, Philip S. Yu.[[Code]](https://github.com/zfan20/GraphDA)
 
