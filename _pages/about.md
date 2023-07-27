@@ -25,7 +25,7 @@ I earned my CS Ph.D. in the BDSC Lab of University of Illinois at Chicago, under
 
 
 # News
-* July 2023: Our Paper "Graph Collaborative Signals Denoising and Augmentation for Recommendation" is awarded the <!-- <span style="color:red">Best Short Paper Award (Honorable Mention)</span> -->
+* July 2023: Our Paper "Graph Collaborative Signals Denoising and Augmentation for Recommendation" is awarded the <span style="color:red">Best Short Paper Award (Honorable Mention)!</span>
 * May 22nd, 2023: Joined AWS AI Personalize as a full-time Applied Scientist.
 * May 8th, 2023: From now on, I am Dr. Fan!
 * May 8th, 2023: Paper "Personalized Federated Domain Adaptation for Item-to-Item Recommendation" is accepted by UAI'23.
