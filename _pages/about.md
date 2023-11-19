@@ -21,7 +21,7 @@ My research studies how to **enhance information retrieval for search and recomm
 [WWW23](https://arxiv.org/pdf/2301.12197.pdf), 
 [BigData22](https://arxiv.org/pdf/2210.13572.pdf), 
 [CIKM21](https://arxiv.org/pdf/2106.06165.pdf)); 
-* (2) long-tail uses\slash items by data augmentation and denoising - ([SIGIR21](https://arxiv.org/pdf/2105.00522.pdf), 
+* (2) long-tail uses/items by data augmentation and denoising - ([SIGIR21](https://arxiv.org/pdf/2105.00522.pdf), 
 [CIKM23](https://arxiv.org/pdf/2305.07633.pdf), 
 [SIGIR23](https://arxiv.org/pdf/2304.03344.pdf)); 
 * (3) representation collapse and diversity - ([Arxiv](https://arxiv.org/pdf/2306.11986.pdf));
