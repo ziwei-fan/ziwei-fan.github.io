@@ -10,21 +10,32 @@ redirect_from:
 ---
 
 
-<!-- # About Me -->
+# About Me
 I am currently an Applied Scientist in AWS AI Labs, working on personalization models research and advancement.
-I earned my CS Ph.D. in the BDSC Lab of University of Illinois at Chicago, under Prof. Philip S. Yu's supervision. 
+I earned my CS Ph.D. in the BDSC Lab of University of Illinois Chicago, under Prof. Philip S. Yu's supervision. 
 <!-- <span style="color:red">Actively looking for full-time positions of Applied/Research Scientist, Machine Learning Engineer in recommender systems.</span> -->
 
 # Research Interests
-* Data-Centric AI (Learn (Distill) New Data for Addressing Data Issues)
+My research studies how to **enhance information retrieval for search and recommendation**, particularly with large language models (LLMs), on **alleviating data issues (long-tail distribution and insufficient diversity) and multi-domains recommendation in both data and model perspectives**. This includes (but is not limited to) (1) improved Transformers - ([WWW22](https://arxiv.org/pdf/2201.06035.pdf)
+[WWW23](https://arxiv.org/pdf/2301.12197.pdf)
+[BigData22](https://arxiv.org/pdf/2210.13572.pdf)
+[CIKM21](https://arxiv.org/pdf/2106.06165.pdf)); (2) long-tail uses\slash items by data augmentation and denoising - (
+[SIGIR21](https://arxiv.org/pdf/2105.00522.pdf)
+[CIKM23](https://arxiv.org/pdf/2305.07633.pdf)
+[SIGIR23](https://arxiv.org/pdf/2304.03344.pdf)); (3) representation collapse and diversity - (
+[Arxiv](https://arxiv.org/pdf/2306.11986.pdf));
+(4) multi-domains recommendation with privacy - (
+[UAI23](https://arxiv.org/pdf/2306.03191.pdf)
+[TIST22](https://dl.acm.org/doi/full/10.1145/3501815)).
+<!-- * Data-Centric AI (Learn (Distill) New Data for Addressing Data Issues) -->
 <!-- 	* Data Sparsity Issue in Sequential Recommendation
 		* BigData'22 (MT4SR: Multi-relation Item-Item Similarities), WWW'22 (STOSA: Collaborative Transitivity), CIKM'21 (DT4SR: Uncertain Sequential Behaviors), and SIGIR'21 (ASReP: Reversely Sequence Enhancement). -->
-* Domain Adaptation (Federated Learning, Knowledge Transfer, and Continual Learning)
-* Recommender Systems (Sequential, Graph, and Knowledge-based Recommendations)
+<!-- * Domain Adaptation (Federated Learning, Knowledge Transfer, and Continual Learning) -->
+<!-- * Recommender Systems (Sequential, Graph, and Knowledge-based Recommendations) -->
 	<!-- * WWW'23 (MStein: Robustness against Sequential Augmentations), CIKM'21, SIGIR'19. -->
 
 
-# News
+<!-- # News
 * Sep 2023: Serve as Program Committee for SDM 2024.
 * Aug 2023: Serve as Reviewer for TheWebConference 2024.
 * Aug 2023: Serve as Reviewer for LoG conference 2023.
@@ -41,5 +52,5 @@ I earned my CS Ph.D. in the BDSC Lab of University of Illinois at Chicago, under
 * Feb 2022: Joined AWS AI Personalize as Applied Scientist Intern.
 * Jan 2022: Paper Sequential Recommendation via Stochastic Self-Attention is accepted by WWW'22.
 * Aug 2021: 3 Paper accepted by CIKM'21, with one nominated as Best Short Paper.
-* May 2021: Joined Spotify Research as Research Intern.
+* May 2021: Joined Spotify Research as Research Intern. -->
 
