@@ -19,7 +19,7 @@ Work experience
 ======
 * Summer 2022: Research Intern
   * <b>Salesforce Research</b>
-  * Work: Product Knowledge Graph Pre-training (In Preparation)
+  * Work: Product Knowledge Graph Pre-training (CIKM'23)
   * Supervisor: Zhiwei Liu, Yongjun Chen
 
 * Spring 2022: Applied Scientist Intern
@@ -39,7 +39,7 @@ Work experience
   * [Project Coverage](https://multithreaded.stitchfix.com/blog/2020/10/20/intern-post/)
 
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://ziwei-fan.github.io/files/resume.pdf)
+<!-- [Click to View My Up-to-date Curriculum Vitae [PDF]](http://ziwei-fan.github.io/files/resume.pdf) -->
 
 <!-- <embed src="http://ziwei-fan.github.io/files/resume.pdf" width="650" height="1800" type='application/pdf'> -->
 
