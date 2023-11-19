@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-# About Me
+<!-- # About Me -->
 I am currently an Applied Scientist in AWS AI Labs, working on personalization models research and advancement.
 I earned my CS Ph.D. in the BDSC Lab of University of Illinois Chicago, under Prof. Philip S. Yu's supervision. 
 <!-- <span style="color:red">Actively looking for full-time positions of Applied/Research Scientist, Machine Learning Engineer in recommender systems.</span> -->
