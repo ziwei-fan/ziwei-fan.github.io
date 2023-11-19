@@ -27,6 +27,10 @@ author_profile: true
 * [[SIGIR 2021]](https://dl.acm.org/doi/pdf/10.1145/3404835.3463036) <b>Augmenting Sequential Recommendation with Pseudo-Prior Items via Reversely Pre-training Transformer</b> <br> <b>Ziwei Fan\*</b>, Zhiwei Liu\*, Yu Wang, Philip S. Yu. [[Code]](https://github.com/DyGRec/ASReP)
 
 
+# Ph.D. Thesis
+* <b>Data Sparsity in Recommender Systems: Collaborative Neighbors Enrichment</b> <br> <b>Ziwei Fan</b><i><b>(UIC)</b></i>.
+[[PDF]](https://indigo.uic.edu/articles/thesis/Data_Sparsity_in_Recommender_Systems_Collaborative_Neighbors_Enrichment/24465757/1)
+
 # Other Publications
 * [[TIST]](https://arxiv.org/pdf/2111.10778.pdf) <b>Federated social recommendation with graph neural network</b> <br> Zhiwei Liu, Liangwei Yang, <b>Ziwei Fan</b>, Hao Peng, Philip S Yu. <i>ACM Transactions on Intelligent Systems and Technology</i>.
 
@@ -52,7 +56,6 @@ author_profile: true
 
 * <b>Modeling the task of Google MapReduce workload</b> <br> Xiaoyang Lin, Piyuan Lin, Peijie Huang, Linxiao Chen, <b>Ziwei Fan</b>, Peisen Huang.  <i>2015 15th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing <b>(CCGrid 2015)</b></i>.
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/7152628)
-
 
 
 # Master Thesis
