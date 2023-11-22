@@ -24,7 +24,7 @@ My research studies how to **enhance information retrieval for search and recomm
 * Long-tail uses/items by data augmentation and denoising - ([SIGIR21](https://arxiv.org/pdf/2105.00522.pdf), 
 [CIKM23](https://arxiv.org/pdf/2305.07633.pdf), 
 [SIGIR23](https://arxiv.org/pdf/2304.03344.pdf)); 
-* Representation collapse and diversity - ([Arxiv](https://arxiv.org/pdf/2306.11986.pdf));
+* Representation collapse and diversity - ([Arxiv23](https://arxiv.org/pdf/2306.11986.pdf));
 * Multi-domains recommendation with privacy - ([UAI23](https://arxiv.org/pdf/2306.03191.pdf), 
 [TIST22](https://dl.acm.org/doi/full/10.1145/3501815)).
 <!-- * Data-Centric AI (Learn (Distill) New Data for Addressing Data Issues) -->
