@@ -17,15 +17,16 @@ I earned my CS Ph.D. in the BDSC Lab of University of Illinois Chicago, under Pr
 
 # Research Interests
 My research studies how to **enhance information retrieval for search and recommendation**, particularly with large language models (LLMs), on **alleviating data issues (long-tail distribution and insufficient diversity) and multi-domains recommendation in both data and model perspectives**. This includes (but is not limited to) 
-* Improved Transformers - ([WWW22](https://arxiv.org/pdf/2201.06035.pdf), 
+* Language Models for Search and Recommendation - ([WSDM24](https://ziwei-fan.github.io/))
+* Transformer Backbone - ([WWW22](https://arxiv.org/pdf/2201.06035.pdf), 
 [WWW23](https://arxiv.org/pdf/2301.12197.pdf), 
 [BigData22](https://arxiv.org/pdf/2210.13572.pdf), 
 [CIKM21](https://arxiv.org/pdf/2106.06165.pdf)); 
-* Long-tail uses/items by data augmentation and denoising - ([SIGIR21](https://arxiv.org/pdf/2105.00522.pdf), 
+* Long-tail Uses/Items with Data Enhancement - ([SIGIR21](https://arxiv.org/pdf/2105.00522.pdf), 
 [CIKM23](https://arxiv.org/pdf/2305.07633.pdf), 
 [SIGIR23](https://arxiv.org/pdf/2304.03344.pdf)); 
-* Representation collapse and diversity - ([Arxiv23](https://arxiv.org/pdf/2306.11986.pdf));
-* Multi-domains recommendation with privacy - ([UAI23](https://arxiv.org/pdf/2306.03191.pdf), 
+* Representation Collapse and Diversity - ([Arxiv23](https://arxiv.org/pdf/2306.11986.pdf));
+* Multi-domains Recommendation with Privacy - ([UAI23](https://arxiv.org/pdf/2306.03191.pdf), 
 [TIST22](https://dl.acm.org/doi/full/10.1145/3501815)).
 <!-- * Data-Centric AI (Learn (Distill) New Data for Addressing Data Issues) -->
 <!-- 	* Data Sparsity Issue in Sequential Recommendation
