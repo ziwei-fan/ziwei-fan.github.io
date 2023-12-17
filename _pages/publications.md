@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* [[WSDM 2024]](https://ziwei-fan.github.io/) <b>Personalized Federated Domain Adaptation for Item-to-Item Recommendation</b> <br> Behnam Rahdari, Hao Ding, <b>Ziwei Fan</b>, Yifei Ma, Zhuotong Chen, Branislav Kveton, Anoop Deoras.
+* [[WSDM 2024]](https://ziwei-fan.github.io/) <b>Logic-Scaffolding: Personalized Aspect-Instructed Recommendation Explanation Generation using LLMs</b> <br> Behnam Rahdari, Hao Ding, <b>Ziwei Fan</b>, Yifei Ma, Zhuotong Chen, Branislav Kveton, Anoop Deoras.
 
 * [[UAI 2023]](https://arxiv.org/abs/2306.03191) <b>Personalized Federated Domain Adaptation for Item-to-Item Recommendation</b> <br> <b>Ziwei Fan</b>, Nghia Hoang, Hao Ding, Anoop Deoras. [[Code]](https://github.com/zfan20/PFGNNPlus/)
 
