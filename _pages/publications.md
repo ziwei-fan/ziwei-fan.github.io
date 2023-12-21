@@ -33,7 +33,7 @@ author_profile: true
 * <b>Data Sparsity in Recommender Systems: Collaborative Neighbors Enrichment</b> <br> <b>Ziwei Fan</b><i><b>(UIC)</b></i>.
 [[PDF]](https://indigo.uic.edu/articles/thesis/Data_Sparsity_in_Recommender_Systems_Collaborative_Neighbors_Enrichment/24465757/1)
 
-# Other Publications
+<!-- # Other Publications
 * [[TIST]](https://arxiv.org/pdf/2111.10778.pdf) <b>Federated social recommendation with graph neural network</b> <br> Zhiwei Liu, Liangwei Yang, <b>Ziwei Fan</b>, Hao Peng, Philip S Yu. <i>ACM Transactions on Intelligent Systems and Technology</i>.
 
 * [[WWW 2022]](https://arxiv.org/pdf/2202.03392.pdf) <b>Large-scale Personalized Video Game Recommendation via Social-aware Contextualized Graph Neural Network</b> <br> Liangwei Yang, Zhiwei Liu, Yu Wang, Chen Wang, <b>Ziwei Fan</b>, Philip S Yu.
@@ -57,9 +57,9 @@ author_profile: true
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/7152619)
 
 * <b>Modeling the task of Google MapReduce workload</b> <br> Xiaoyang Lin, Piyuan Lin, Peijie Huang, Linxiao Chen, <b>Ziwei Fan</b>, Peisen Huang.  <i>2015 15th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing <b>(CCGrid 2015)</b></i>.
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/7152628)
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/7152628) -->
 
-
+<!-- 
 # Master Thesis
 * <b>Ensemble methods for top-N recommendation</b> <br> <b>Ziwei Fan</b><i><b>(IUPUI)</b></i>.
-[[PDF]](https://scholarworks.iupui.edu/bitstream/handle/1805/15937/A_thesis.pdf?sequence=1)
+[[PDF]](https://scholarworks.iupui.edu/bitstream/handle/1805/15937/A_thesis.pdf?sequence=1) -->
