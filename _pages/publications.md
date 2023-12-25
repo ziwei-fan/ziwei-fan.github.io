@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-* [[WSDM 2024]](https://ziwei-fan.github.io/) <b>Logic-Scaffolding: Personalized Aspect-Instructed Recommendation Explanation Generation using LLMs</b> <br> Behnam Rahdari, Hao Ding, <b>Ziwei Fan</b>, Yifei Ma, Zhuotong Chen, Branislav Kveton, Anoop Deoras.
+* [[WSDM 2024]](https://arxiv.org/pdf/2312.14345.pdf) <b>Logic-Scaffolding: Personalized Aspect-Instructed Recommendation Explanation Generation using LLMs</b> <br> Behnam Rahdari, Hao Ding, <b>Ziwei Fan</b>, Yifei Ma, Zhuotong Chen, Branislav Kveton, Anoop Deoras.
 
-* [[UAI 2023]](https://arxiv.org/abs/2306.03191) <b>Personalized Federated Domain Adaptation for Item-to-Item Recommendation</b> <br> <b>Ziwei Fan</b>, Nghia Hoang, Hao Ding, Anoop Deoras. [[Code]](https://github.com/zfan20/PFGNNPlus/)
+* [[UAI 2023]](https://arxiv.org/abs/2306.03191.pdf) <b>Personalized Federated Domain Adaptation for Item-to-Item Recommendation</b> <br> <b>Ziwei Fan</b>, Nghia Hoang, Hao Ding, Anoop Deoras. [[Code]](https://github.com/zfan20/PFGNNPlus/)
 
 * [[SIGIR 2023]](https://arxiv.org/pdf/2304.03344.pdf) <b>Graph Collaborative Signals Denoising and Augmentation for Recommendation</b> <br> <b>Ziwei Fan</b>, Ke Xu, Zhang Dong, Hao Peng, Jiawei Zhang, Philip S. Yu. <span style="color:red"> Best Short Paper Award (Honorable Mention)</span> [[Code]](https://github.com/zfan20/GraphDA/)
 
