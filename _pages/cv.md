@@ -17,29 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2022: Research Intern
-  * <b>Salesforce Research</b>
-  * Work: Product Knowledge Graph Pre-training (CIKM'23)
-  * Supervisor: Zhiwei Liu, Yongjun Chen
-
-* Spring 2022: Applied Scientist Intern
-  * <b>AWS AI Personalize</b>
-  * Work: Personalized Federated Graph for Item-to-Item Recommendation (UAI'23)
-  * Supervisor: Nghia Hoang, Hao Ding, Anoop Deoras
-
-* Summer 2021: Research Intern
-  * <b>Spotify Research</b>
-  * Work: Episodes Discovery Recommendation via Multi-sources Augmentations (Arxiv'23)
-  * Supervisor: Alice Wang, Zahra Nazari
-
-* Summer 2020: Data Scientist Intern
-  * <b>Stitch Fix Inc</b>
-  * Work: Developed an ETL pipline for calling computer vision API to extract fashion style variants in images.
-  * Supervisor: Ian Horn, Karim Wahba
-  * [Project Coverage](https://multithreaded.stitchfix.com/blog/2020/10/20/intern-post/)
-
-
-<!-- [Click to View My Up-to-date Curriculum Vitae [PDF]](http://ziwei-fan.github.io/files/resume.pdf) -->
-
-<!-- <embed src="http://ziwei-fan.github.io/files/resume.pdf" width="650" height="1800" type='application/pdf'> -->
-
+* Summer 2022: Research Intern <b>Salesforce Research</b>
+* Spring 2022: Applied Scientist Intern <b>AWS AI Labs</b>
+* Summer 2021: Research Intern <b>Spotify Research</b>
+* Summer 2020: Data Scientist Intern <b>Stitch Fix Inc</b>
