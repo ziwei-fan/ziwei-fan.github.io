@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* [[Arxiv 2023]](https://arxiv.org/pdf/2306.11986.pdf) <b>Addressing the Rank Degeneration in Sequential Recommendation via Singular Spectrum Smoothing</b> <br> <b>Ziwei Fan</b>, Zhiwei Liu, Hao Peng, Philip S. Yu. [[Code]](available soon)
+* [[Arxiv 2023]](https://arxiv.org/pdf/2306.11986.pdf) <b>Addressing the Rank Degeneration in Sequential Recommendation via Singular Spectrum Smoothing</b> <br> <b>Ziwei Fan</b>, Zhiwei Liu, Hao Peng, Philip S. Yu. (code available soon)
 
 
 * [[WSDM 2024]](https://arxiv.org/pdf/2312.14345.pdf) <b>Logic-Scaffolding: Personalized Aspect-Instructed Recommendation Explanation Generation using LLMs</b> <br> Behnam Rahdari, Hao Ding, <b>Ziwei Fan</b>, Yifei Ma, Zhuotong Chen, Branislav Kveton, Anoop Deoras.
