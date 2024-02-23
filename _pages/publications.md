@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+* [[Arxiv 2023]](https://arxiv.org/pdf/2306.11986.pdf) <b>Addressing the Rank Degeneration in Sequential Recommendation via Singular Spectrum Smoothing</b> <br> <b>Ziwei Fan</b>, Zhiwei Liu, Hao Peng, Philip S. Yu. [[Code]](available soon)
+
+
 * [[WSDM 2024]](https://arxiv.org/pdf/2312.14345.pdf) <b>Logic-Scaffolding: Personalized Aspect-Instructed Recommendation Explanation Generation using LLMs</b> <br> Behnam Rahdari, Hao Ding, <b>Ziwei Fan</b>, Yifei Ma, Zhuotong Chen, Branislav Kveton, Anoop Deoras.
 
 * [[UAI 2023]](https://arxiv.org/abs/2306.03191.pdf) <b>Personalized Federated Domain Adaptation for Item-to-Item Recommendation</b> <br> <b>Ziwei Fan</b>, Nghia Hoang, Hao Ding, Anoop Deoras. [[Code]](https://github.com/zfan20/PFGNNPlus/)
