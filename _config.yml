@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziwei Fan Homepage"
+title                    : "Ziwei Fan"
 title_separator          : "-"
 name                     : &name "Ziwei Fan"
-description              : &description "CS Ph.D. from University of Illinois Chicago"
+description              : &description "Applied Scientist II at Amazon. Research in LLMs for code, personalized generation, and recommender systems."
 url                      : https://ziwei-fan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ziwei-fan.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ziwei Fan"
   avatar           : "profile.jpeg"
-  bio              : "CS Ph.D. from University of Illinois Chicago"
-  location         : "Chicago, USA"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=3O91rIwAAAAJ&hl=en"
+  bio              : "Applied Scientist II @ Amazon. Ph.D. in CS from University of Illinois Chicago."
+  location         :
+  employer         : "Amazon"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=4Dgorp0AAAAJ&hl=en"
   email            : "ziweifan1224@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
