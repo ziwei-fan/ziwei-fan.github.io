@@ -496,6 +496,17 @@ body {
 .zf-single-page .archive .page__content { padding-top: 0; }
 .zf-single-page hr { border: none; height: 1px; background: var(--zf-line); margin: 2rem 0; }
 
+/* ---- Footer positioning: undo theme's absolute stick ------ */
+.page__footer {
+  position: static !important;
+  float: none !important;
+  margin-top: 3rem;
+  padding-bottom: 1.5rem;
+  background-color: var(--zf-surface-2);
+  border-top: 1px solid var(--zf-line);
+  animation: none !important;
+}
+
 /* ---- Footer verse (signature) ---------------------------- */
 .zf-footer-verse {
   text-align: center;
