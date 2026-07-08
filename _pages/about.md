@@ -195,7 +195,7 @@ redirect_from:
       <p class="degree">Ph.D., Computer Science</p>
       <p class="school">University of Illinois Chicago</p>
       <p class="when">Aug 2018 — May 2023</p>
-      <p class="thesis"><em>Thesis:</em> Data Sparsity in Recommender Systems — Collaborative Neighbors Enrichment.</p>
+      <p class="thesis"><em>Thesis:</em> Data Sparsity in Recommender Systems — Collaborative Neighbors Enrichment. Advised by Philip S. Yu.</p>
     </div>
     <div class="zf-edu-card">
       <p class="degree">M.S., Computer Science</p>
