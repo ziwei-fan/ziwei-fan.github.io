@@ -145,17 +145,18 @@ redirect_from:
       <p class="zf-tl-org"><span class="zf-org-name">Amazon</span></p>
       <ul>
         <li><strong>Prime Video Homepage &amp; Notifications (RecSys).</strong> Homepage ranking model product delivery with positive stream-hour lift. Bayesian day-of-week / hour-of-day optimization for in-app notifications with additional WW stream-hour gain.</li>
-        <li><strong>AWS Transform for Mainframe — Mainframe / Java code migration agent (CodeLLM).</strong>
+        <li><strong>AWS Transform for Mainframe — Mainframe / Java code migration agent (CodeLLM).</strong> <span class="zf-cites"><span class="zf-cite">KDD ’24</span></span>
           <ul>
             <li><strong>Agentic Automatic Test Generation</strong> for system-level functional-equivalence testing with differential fuzzing; condition/exception execution-path extraction via AST + LLM improves over strong random-testing baselines.</li>
             <li><strong>Agentic Code Documentation</strong> for long (repo-level, 20K+ LoC per file) context extraction with test-time context optimization for hallucination reduction.</li>
             <li><strong>LLM-as-Judge Ensemble</strong> for quality measurement of generated documents via perturbations and claim-level metric definitions.</li>
-            <li><strong>LLM post-training for prompt compression</strong> via adaptive meta-token fine-tuning.</li>
+            <li><strong>LLM post-training for prompt compression</strong> via adaptive meta-token fine-tuning. <span class="zf-cites"><span class="zf-cite">arXiv ’25</span><span class="zf-cite">arXiv ’26</span></span></li>
             <li><strong>Self-debug+ agent</strong> with format verifier — measurable success-rate@1 improvement for Java Upgrade.</li>
           </ul>
         </li>
         <li><strong>AWS Clean Rooms ML — Audience Expansion (RecSys).</strong> Transformer user-sequence embeddings and seed-user expansion for ads campaigns. Launched at <em>re:Invent 2023</em>.</li>
-        <li><strong>Multi-modal LLM fine-tuning.</strong> Implicit attribute-value extraction (EIVEN, NAACL ’24) with tail-attribute improvements.</li>
+        <li><strong>Multi-modal LLM fine-tuning.</strong> Implicit attribute-value extraction (EIVEN) with tail-attribute improvements. <span class="zf-cites"><span class="zf-cite">NAACL ’24</span></span></li>
+        <li><strong>Personalized recommendation explanation.</strong> Aspect-instructed, logic-scaffolded explanation generation with LLMs. <span class="zf-cites"><span class="zf-cite">WSDM ’24</span></span></li>
       </ul>
     </div>
 
@@ -164,10 +165,10 @@ redirect_from:
       <h3 class="zf-tl-role">Research / Applied Scientist / Data Scientist Interns</h3>
       <p class="zf-tl-org"><span class="zf-org-name">Salesforce Research</span> · <span class="zf-org-name">AWS AI</span> · <span class="zf-org-name">Spotify Research</span> · <span class="zf-org-name">Stitch Fix</span></p>
       <ul>
-        <li>Product knowledge-graph pre-training for zero-shot item-based recommendation (CIKM ’23, Salesforce Research).</li>
-        <li>Personalized federated domain adaptation for item-to-item recommendation (UAI ’23, AWS AI).</li>
-        <li>Discovery-episode ranking via multi-source augmentations (Spotify Research).</li>
-        <li>Data science for personalized styling (Stitch Fix).</li>
+        <li>Product knowledge-graph pre-training for zero-shot item-based recommendation <em>(Salesforce Research)</em>. <span class="zf-cites"><span class="zf-cite">CIKM ’23</span></span></li>
+        <li>Personalized federated domain adaptation for item-to-item recommendation <em>(AWS AI)</em>. <span class="zf-cites"><span class="zf-cite">UAI ’23</span></span></li>
+        <li>Discovery-episode ranking via multi-source augmentations <em>(Spotify Research)</em>. <span class="zf-cites"><span class="zf-cite">arXiv ’23</span></span></li>
+        <li>Data science for personalized styling <em>(Stitch Fix)</em>.</li>
       </ul>
     </div>
 
@@ -176,8 +177,10 @@ redirect_from:
       <h3 class="zf-tl-role">Graduate Research &amp; Teaching Assistant</h3>
       <p class="zf-tl-org"><span class="zf-org-name">University of Illinois Chicago</span></p>
       <ul>
-        <li>Transformer encoders for sequential recommendation; data augmentation & denoising for long-tail recommendation.</li>
-        <li>Representation collapse and diversity; federated / transfer learning for cross-domain recommendation.</li>
+        <li>Transformer encoders for sequential recommendation. <span class="zf-cites"><span class="zf-cite">WWW ’22</span><span class="zf-cite">CIKM ’21</span><span class="zf-cite">BigData ’22</span></span></li>
+        <li>Data augmentation & denoising for long-tail recommendation. <span class="zf-cites"><span class="zf-cite">SIGIR ’21</span><span class="zf-cite">SIGIR ’23</span></span></li>
+        <li>Representation collapse, diversity, and robustness. <span class="zf-cites"><span class="zf-cite">WWW ’23</span><span class="zf-cite">arXiv ’24</span></span></li>
+        <li>Federated / transfer learning for cross-domain recommendation. <span class="zf-cites"><span class="zf-cite">KDD ’24</span></span></li>
       </ul>
     </div>
   </div>
