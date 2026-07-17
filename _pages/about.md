@@ -2,7 +2,7 @@
 layout: archive
 permalink: /
 title: "Ziwei Fan"
-excerpt: "Applied Scientist II at Amazon. Research in LLMs for code, personalized generation, and recommender systems."
+excerpt: "Research Engineer at Apple. Research in LLMs for code, personalized generation, and recommender systems."
 author_profile: false
 classes: zf-single-page
 redirect_from:
@@ -26,7 +26,7 @@ redirect_from:
     <div class="zf-hero__intro">
       <h1 class="zf-hero__name">Ziwei Fan</h1>
       <p class="zf-hero__role">
-        Applied Scientist II at <span class="zf-org">Amazon</span> &nbsp;·&nbsp; Ph.D. in Computer Science, University of Illinois Chicago
+        Research Engineer at <span class="zf-org">Apple</span> &nbsp;·&nbsp; Ph.D. in Computer Science, University of Illinois Chicago
       </p>
       <p class="zf-hero__blurb">
         I build intelligent systems for <strong>personalization & recommendation</strong> and
@@ -144,7 +144,13 @@ redirect_from:
   <div class="zf-timeline">
 
     <div class="zf-tl-item current">
-      <div class="zf-tl-when">May 2023 — Present</div>
+      <div class="zf-tl-when">Jul 2026 — Present</div>
+      <h3 class="zf-tl-role">Research Engineer</h3>
+      <p class="zf-tl-org"><span class="zf-org-name">Apple</span></p>
+    </div>
+
+    <div class="zf-tl-item">
+      <div class="zf-tl-when">May 2023 — Jul 2026</div>
       <h3 class="zf-tl-role">Applied Scientist II</h3>
       <p class="zf-tl-org"><span class="zf-org-name">Amazon</span></p>
       <ul>
