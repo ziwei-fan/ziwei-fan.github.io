@@ -100,6 +100,10 @@ redirect_from:
   <div class="zf-news">
     <div class="zf-news__item">
       <div class="zf-news__date">2026</div>
+      <div class="zf-news__text">Released <strong>Kairosrank</strong>, a solo side project — a proactive, just-in-time on-device re-ranking agent (browser extension) that decides <em>when</em> to act, <em>what</em> to ask, and <em>how</em> to re-rank (<a href="https://github.com/ziwei-fan/Kairosrank" target="_blank" rel="noopener">code</a> · <a href="https://github.com/ziwei-fan/Kairosrank/blob/main/KAIROSRANK.pdf" target="_blank" rel="noopener">tech report</a>).</div>
+    </div>
+    <div class="zf-news__item">
+      <div class="zf-news__date">2026</div>
       <div class="zf-news__text">New preprint on <strong>k-token merging in the latent embedding space</strong> for LLM sequence compression (<a href="https://arxiv.org/pdf/2604.15153" target="_blank" rel="noopener">arXiv 2604.15153</a>).</div>
     </div>
     <div class="zf-news__item">
@@ -223,6 +227,19 @@ redirect_from:
   </div>
 
   <div class="zf-pub-list">
+
+    <article class="zf-pub">
+      <div class="zf-venue zf-venue--report"><span class="name">Tech<br>Report</span><span class="year">2026</span></div>
+      <div>
+        <h3 class="zf-pub__title">Kairosrank: A Proactive, Just-in-Time Agent That Decides When to Break Silence, What to Ask, and How to Re-Rank</h3>
+        <p class="zf-pub__authors"><span class="me">Ziwei Fan</span>.</p>
+        <div class="zf-pub__meta">
+          <span class="zf-tag">Solo R&amp;D prototype</span>
+          <a class="zf-tag zf-tag--link" href="https://github.com/ziwei-fan/Kairosrank/blob/main/KAIROSRANK.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+          <a class="zf-tag zf-tag--link" href="https://github.com/ziwei-fan/Kairosrank" target="_blank" rel="noopener"><i class="fab fa-github"></i> Code</a>
+        </div>
+      </div>
+    </article>
 
     <article class="zf-pub">
       <div class="zf-venue zf-venue--arxiv"><span class="name">arXiv</span><span class="year">2026</span></div>
