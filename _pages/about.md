@@ -100,7 +100,7 @@ redirect_from:
   <div class="zf-news">
     <div class="zf-news__item">
       <div class="zf-news__date">2026</div>
-      <div class="zf-news__text">Released <strong>Kairosrank</strong>, a solo side project — a proactive, just-in-time on-device re-ranking agent (browser extension) that decides <em>when</em> to act, <em>what</em> to ask, and <em>how</em> to re-rank (<a href="https://github.com/ziwei-fan/Kairosrank" target="_blank" rel="noopener">code</a> · <a href="https://github.com/ziwei-fan/Kairosrank/blob/main/KAIROSRANK.pdf" target="_blank" rel="noopener">tech report</a>).</div>
+      <div class="zf-news__text">Released <strong>Kairosrank</strong>, a side project — a proactive, just-in-time on-device re-ranking agent (browser extension) that decides <em>when</em> to act, <em>what</em> to ask, and <em>how</em> to re-rank (<a href="https://github.com/ziwei-fan/Kairosrank" target="_blank" rel="noopener">code</a> · <a href="https://github.com/ziwei-fan/Kairosrank/blob/main/KAIROSRANK.pdf" target="_blank" rel="noopener">tech report</a>).</div>
     </div>
     <div class="zf-news__item">
       <div class="zf-news__date">2026</div>
@@ -234,7 +234,7 @@ redirect_from:
         <h3 class="zf-pub__title">Kairosrank: A Proactive, Just-in-Time Agent That Decides When to Break Silence, What to Ask, and How to Re-Rank</h3>
         <p class="zf-pub__authors"><span class="me">Ziwei Fan</span>.</p>
         <div class="zf-pub__meta">
-          <span class="zf-tag">Solo R&amp;D prototype</span>
+          <span class="zf-tag">R&amp;D prototype</span>
           <a class="zf-tag zf-tag--link" href="https://github.com/ziwei-fan/Kairosrank/blob/main/KAIROSRANK.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
           <a class="zf-tag zf-tag--link" href="https://github.com/ziwei-fan/Kairosrank" target="_blank" rel="noopener"><i class="fab fa-github"></i> Code</a>
         </div>
