@@ -62,11 +62,17 @@ redirect_from:
       <strong>large language models (LLMs) for code</strong>. I design personalized ranking models that address
       data sparsity, representation collapse, and cross-domain shift in recommender systems, and I build LLM
       agents that migrate and translate code at repository scale while aligning multi-modal LLMs with real-world
-      tail signals.
+      tail signals. More recently, I explore <strong>proactive, just-in-time agents</strong> that infer when to
+      act and re-rank content on-device, without an explicit request.
     </p>
   </div>
 
   <div class="zf-highlights">
+    <div class="zf-highlight-card">
+      <div class="icon"><i class="fas fa-stopwatch"></i></div>
+      <h4>Proactive Just-in-Time Agents</h4>
+      <p>On-device agents that decide when to act, what to ask, and how to re-rank — as in Kairosrank.</p>
+    </div>
     <div class="zf-highlight-card">
       <div class="icon"><i class="fas fa-bolt"></i></div>
       <h4>Personalized Ranking Models</h4>
@@ -81,11 +87,6 @@ redirect_from:
       <div class="icon"><i class="fas fa-braille"></i></div>
       <h4>Representation & Diversity</h4>
       <p>Mitigating representation collapse; controllable diversification for recommendation.</p>
-    </div>
-    <div class="zf-highlight-card">
-      <div class="icon"><i class="fas fa-globe"></i></div>
-      <h4>Federated / Transfer Learning</h4>
-      <p>Personalized federated domain adaptation for cross-market, cross-domain recommendation.</p>
     </div>
   </div>
 </section>
